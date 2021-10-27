@@ -19,10 +19,10 @@
   "devDependencies": {
     "babel-eslint": "^9.0.0",
     "cssnano": "^4.1.10",
-    "eslint": "^5.16.0",
-    "eslint-config-airbnb": "^17.1.0",
+    "eslint": "^8.1.0",
+    "eslint-config-airbnb": "^18.2.1",
     "eslint-config-prettier": "^4.3.0",
-    "eslint-config-wesbos": "0.0.19",
+    "eslint-config-wesbos": "^2.1.0",
     "eslint-plugin-html": "^5.0.5",
     "eslint-plugin-import": "^2.17.3",
     "eslint-plugin-jsx-a11y": "^6.2.1",
